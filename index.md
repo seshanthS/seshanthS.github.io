@@ -11,6 +11,6 @@ seshanth.s@hotmail.com
 
 ## List of Projects
 
-|Name         |Url                                       |description                                           |
+|Name         |Description                               |Url                                           |
 |:------------|:-----------------------------------------|:-----------------------------------------------------|
-|MicroPayments|[https://seshanths.github.io/microPayments/](https://seshanths.github.io/microPayments/) | Ethereum for micropayments by using payment Channels|
+|MicroPayments|Ethereum for micropayments by using payment Channels|[microPayments](https://seshanths.github.io/microPayments/) |
